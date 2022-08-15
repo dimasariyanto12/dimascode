@@ -1,6 +1,6 @@
 # Halo Semua!
 
-Perkenalkan nama saya **Dimas Ariyanto**.\
+Perkenalkan nama saya **Dimas Ariyanto**
 
 Saya seorang **UI UX Designer** di [Ailee Studio](https://www.linkedin.com/company/ailee-studio/)
 Saya juga sebagai **Web Developer**
